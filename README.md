@@ -2,7 +2,7 @@
 
 The files in this repository were used to configure the network depicted below.
 
-https://github.com/sguarino21/Azure-Peered-Networks.git
+https://github.com/sguarino21/Automated_ELK_Stack_Deployment/blob/main/topology.jpg
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the https://github.com/sguarino21/Azure-Peered-Networks.git repository may be used to install only certain pieces of it, such as Filebeat.
 

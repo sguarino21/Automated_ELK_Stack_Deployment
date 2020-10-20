@@ -7,7 +7,7 @@ https://github.com/sguarino21/Azure-Peered-Networks.git
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the https://github.com/sguarino21/Azure-Peered-Networks.git repository may be used to install only certain pieces of it, such as Filebeat.
 
   - List of All Configuration and Playbook files to recreate environment:
-  - Note: Edits to configuration and plyabook files needed to tailor to your specific network.
+  - Note: Edits to configuration and playbook files needed to tailor to your specific network.
   
 
   - https://github.com/sguarino21/Azure-Peered-Networks/blob/main/ansible_config.yml
